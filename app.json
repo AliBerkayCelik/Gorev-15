@@ -2,6 +2,7 @@
   "expo": {
     "name": "15-aliberkaycelik",
     "slug": "15-aliberkaycelik",
+    "owner": "sm002",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +26,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "23466425-db18-433b-b8b0-adbffb245d87"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/23466425-db18-433b-b8b0-adbffb245d87"
     }
   }
 }
